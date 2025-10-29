@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Jiyoung Lee.</h1>
+<h1 align="center">Hi, I'm Jiyoung Lee. 👋</h1>
 <h3 align="center">Continuously learning and building, driven by curiosity and persistence 🚀✨</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jyungx2&label=Profile%20views&color=0e75b6&style=flat" alt="jyungx2" /> </p>
